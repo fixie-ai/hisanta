@@ -1,8 +1,10 @@
 # Hi Santa!
 
-This is the source code for the [Hi Santa](https://hisanta.ai) app, developed by [Fixie](https://fixie.ai).
-This is an AI-powered app that lets you make phone calls to Santa, Mrs. Claus, and other characters.
-It's powered by Fixie's platform for building voice-powered AI applications. Learn more at https://fixie.ai/voice.
+This is the source code for the Hi Santa app, developed by [Fixie](https://fixie.ai).
+This was an AI-powered app that let you make phone calls to Santa, Mrs. Claus, and other characters.
+It was powered by Fixie's platform for building voice-powered AI applications.
+
+The experiment was featured on [GeekWire](https://www.geekwire.com/2023/startup-creates-ai-santa-using-its-tech-to-facilitate-believable-voice-calls-for-the-naughty-and-nice/).
 
 ## Development and running locally
 
